@@ -1,0 +1,4 @@
+httpx==0.23.0
+beautifulsoup4==4.12.2
+polars==0.18.2
+nest_asyncio==1.5.7
